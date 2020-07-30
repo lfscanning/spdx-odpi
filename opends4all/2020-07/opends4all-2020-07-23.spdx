@@ -1,0 +1,4168 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_opends4all-2020-07-23.zip_1596136316.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-07-30T19:11:56Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: opends4all-2020-07-23.zip
+PackageFileName: opends4all-2020-07-23.zip
+SPDXID: SPDXRef-upload2635
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: afb70d6884f888dbb6008a47f97c1971700f98d0
+PackageChecksum: SHA1: 8fc8b2d0c152bc899070975067a0f89b820299b5
+PackageChecksum: MD5: d5fc39bc192ad51be80c03baabbf10b9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2635
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/www.snopes.com/fact-check/social-media-hacker-warning
+SPDXID: SPDXRef-item10046003
+FileChecksum: SHA1: 050f46087a40ce4846d68e669e6e55c54359c4dc
+FileChecksum: MD5: fe352df9cd357d91940c78a141e92990
+LicenseConcluded: LicenseRef-No-reproduction-1
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 1995 - 2020 by Snopes Media Group Inc. </text>
+ 
+
+##File
+
+FileName: OpenDS4All/COMMUNITY-GUIDE.md
+SPDXID: SPDXRef-item10046054
+FileChecksum: SHA1: 1581f8c7902ebd8d6f9652e9cec6dd1296bf5e34
+FileChecksum: MD5: 9a44825780c9eb3a520bcde377f907b6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the ODPi Egeria project. </text>
+ 
+
+##File
+
+FileName: OpenDS4All/CONTENT-ORGANIZATION.md
+SPDXID: SPDXRef-item10046056
+FileChecksum: SHA1: c48ea0c1d8bf41e6bb30634c2e5a25ce1736ceff
+FileChecksum: MD5: b16fbe4c043c21535b3fc62c8af8bab3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the ODPi OpenDS4All project. </text>
+ 
+
+##File
+
+FileName: OpenDS4All/README.md
+SPDXID: SPDXRef-item10045725
+FileChecksum: SHA1: 2e3ebf4b2fe5fad6a88322ab15d9d6dc26343ee7
+FileChecksum: MD5: 86a022051d6e8d32dfb0bd5027353a8a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the ODPi OpenDS4All project. </text>
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mark_Shuttleworth.html
+SPDXID: SPDXRef-item10045987
+FileChecksum: SHA1: e743ba0691ecbf01ae1d0dba87e4a3eab1654b47
+FileChecksum: MD5: 9a043487357b6def7f2172bfda1cd63e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/CONTRIBUTING.md
+SPDXID: SPDXRef-item10045722
+FileChecksum: SHA1: 5ddd3e29e76f92ca29a878a3031771e5ce0f9330
+FileChecksum: MD5: 61241247169b0bec591b4e7976d8ccdb
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Andrew_Mackenzie.html
+SPDXID: SPDXRef-item10046000
+FileChecksum: SHA1: db27f1510f5c3f347e15614bad53dd777157f398
+FileChecksum: MD5: 2bda8241c6d86f0968eb2f31f9a680ff
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Brian_Moynihan.html
+SPDXID: SPDXRef-item10045965
+FileChecksum: SHA1: 57a93ed0781b8f894227771e26d0b645ca972cdf
+FileChecksum: MD5: 2161c2f86a3b1b88c033d30535d641a3
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Brian_Peddle.html
+SPDXID: SPDXRef-item10045994
+FileChecksum: SHA1: f4289df9e153f3f185d07f661cc78e1dab3b1838
+FileChecksum: MD5: ea8fa915044116f9e15adc7bea7aaff5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Darius_Adamczyk.html
+SPDXID: SPDXRef-item10045977
+FileChecksum: SHA1: 513fea86d54a8d010dcf5832ba8520c6b38f2df1
+FileChecksum: MD5: a83410d047436cc722735617e315f147
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Diego_Della_Valle.html
+SPDXID: SPDXRef-item10045990
+FileChecksum: SHA1: bfd8ba21e79052eb9a01376c01797387cae83459
+FileChecksum: MD5: d5eacb76eaae375365031c6056825c7f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dikesh_Malhotra.html
+SPDXID: SPDXRef-item10045988
+FileChecksum: SHA1: ceb6917c4fb0b6d91707f331a24cde6c3433aa9b
+FileChecksum: MD5: 64e5d523619479544d4b3cb1552493fd
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dogecoin
+SPDXID: SPDXRef-item10045974
+FileChecksum: SHA1: c1787b32a19a506897b68021093437d18cf5a124
+FileChecksum: MD5: 649da1ea765752e47d0ced0fd89c155b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Frank_Appel.html
+SPDXID: SPDXRef-item10045986
+FileChecksum: SHA1: 08d9ce3ba16c79a32055c4452eb9e1ed8183a043
+FileChecksum: MD5: f8bea359751af3386099fa0f052989ee
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Frederick_W._Smith.html
+SPDXID: SPDXRef-item10045968
+FileChecksum: SHA1: 303eca8d670d6a9c16fc0357d8ccfb22806c35ef
+FileChecksum: MD5: 0d92ee485e2e6aba34f99e13f9b557f2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Garo_H._Armen.html
+SPDXID: SPDXRef-item10045967
+FileChecksum: SHA1: 96fb8e81c635689d770bb93dc40c9927fbbebd5e
+FileChecksum: MD5: f44a5656d9bae1b2fbd57828d28f80dd
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jack_Dorsey.html
+SPDXID: SPDXRef-item10045998
+FileChecksum: SHA1: 05c6eb65448d647be510786105ee8884656619c5
+FileChecksum: MD5: 9745edac0aa68c2ac95606ab9ebfea92
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/James_E._Thompson.html
+SPDXID: SPDXRef-item10045972
+FileChecksum: SHA1: faeaa82aea308d937a87a4f8fb01bdbab9608053
+FileChecksum: MD5: a1423a34fdbde266ea630a49ae780ba4
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jeff_Clarke.html
+SPDXID: SPDXRef-item10045989
+FileChecksum: SHA1: 5ee51a84a0bcfec8cb301e0284a7fee088b63aaf
+FileChecksum: MD5: 734bac22ab1294d5a04c6b8d4d514579
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/John_A._Kaneb.html
+SPDXID: SPDXRef-item10045980
+FileChecksum: SHA1: e628acccb6e311fdf09b5930f219e24ce2cc21e2
+FileChecksum: MD5: edb711bba85a49935f811630dcfc9008
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/John_T._Standley.html
+SPDXID: SPDXRef-item10045981
+FileChecksum: SHA1: cad40cbf1188e6b2da70a0b87f93647b2dbedd2d
+FileChecksum: MD5: 4a05a24933606e8166de610b1ef2641f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Michael_O'Leary.html
+SPDXID: SPDXRef-item10045975
+FileChecksum: SHA1: c1dba23fd6210234da71818069c34b53efd68dd3
+FileChecksum: MD5: b1d6e95eb1bb165e4682141923bf8dcb
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Millard_Drexler.html
+SPDXID: SPDXRef-item10045995
+FileChecksum: SHA1: f2e0ee4595a5112fef3259ab87773cbda2becca1
+FileChecksum: MD5: 8d3b1dc63a7b8885b352f50c38808cd5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Namecoin
+SPDXID: SPDXRef-item10045979
+FileChecksum: SHA1: a45e75e37ac05c2a251ccab7926300744593ba14
+FileChecksum: MD5: 25b8ade6df9111596b5eb3146f9adfad
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/NEM
+SPDXID: SPDXRef-item10045978
+FileChecksum: SHA1: a509573b9691522fb9db2cc94190065719337fb1
+FileChecksum: MD5: 7d10f73f2f055bdf6f03c353a057f0e6
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Paul_Hermelin.html
+SPDXID: SPDXRef-item10045971
+FileChecksum: SHA1: c9085a0cce885bb06bbfb98fba81b995d04c23e3
+FileChecksum: MD5: 5c44fd51cf095e80b40d865012dd7c55
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Phebe_Novakovic.html
+SPDXID: SPDXRef-item10045997
+FileChecksum: SHA1: 6d0025e7fb727525005493cfad3959edb9b7fd25
+FileChecksum: MD5: 2032dbefdda1646dea19e8b91928ad14
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Primecoin
+SPDXID: SPDXRef-item10045973
+FileChecksum: SHA1: ae205e552ebe8787913b7ce66bf09b7cd0d806d7
+FileChecksum: MD5: 131f2ee6c2922d20bfcc15f9bcc6aa7b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Rajesh_Gopinathan.html
+SPDXID: SPDXRef-item10045983
+FileChecksum: SHA1: 1618bd32dcec44959bce24c12b94db5a02f50f06
+FileChecksum: MD5: 8cee5d67529facde3dfae77d5092117e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Rich_Lesser.html
+SPDXID: SPDXRef-item10045999
+FileChecksum: SHA1: 58c80e5e659cec3cf5f2b078221267dcf7c38958
+FileChecksum: MD5: a3327564274c2238ae8f8937fa16439f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Robert_Bakish.html
+SPDXID: SPDXRef-item10045966
+FileChecksum: SHA1: 923c565bf91e853435e77033354982b382b1e184
+FileChecksum: MD5: 9f9bdfbcf1eeb3f0eeb0931ce78d4e4e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Robert_H._Swan.html
+SPDXID: SPDXRef-item10045982
+FileChecksum: SHA1: b65950f17092fc2040a580a7b7ab5d43cd5ebdd8
+FileChecksum: MD5: 7f3f8aeda3ab442ac40ae32377420e00
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Roland_Dickey_Jr..html
+SPDXID: SPDXRef-item10045970
+FileChecksum: SHA1: 8911721b71b41f83372a6c3202f8b59065a7a407
+FileChecksum: MD5: 09170e838544d98bfbbd0393944853c8
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Sergio_Marchionne.html
+SPDXID: SPDXRef-item10045969
+FileChecksum: SHA1: f0d8a2ee35bc962c05203a83a492c48a716008d8
+FileChecksum: MD5: 9d4fe5da6960c926a17f4dc7bc7590d5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Stephen_A._Schwarzman.html
+SPDXID: SPDXRef-item10045991
+FileChecksum: SHA1: ea6312abfcf2203fb847687c9cfe3aa080bb97fd
+FileChecksum: MD5: fb640311685ff52fb9e4b8398d00e737
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Stuart_Gulliver.html
+SPDXID: SPDXRef-item10045992
+FileChecksum: SHA1: 2b88f8192b6cc17ae33161447d7a3382a6925958
+FileChecksum: MD5: 681f5eb477495a7e52afc569016428df
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tapan_Singhel.html
+SPDXID: SPDXRef-item10045984
+FileChecksum: SHA1: 9c94a6982a5f912028124dc128d5e6bd4282ba38
+FileChecksum: MD5: 53c3088d2be99ebc168b16de04b4fd2c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tom_Enders.html
+SPDXID: SPDXRef-item10045985
+FileChecksum: SHA1: fcd8e4747ce619a29aa7d42784919c5c10a50ece
+FileChecksum: MD5: 960a19d2151ddebd8dddb3554490c8b2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Verge_(cryptocurrency)
+SPDXID: SPDXRef-item10045976
+FileChecksum: SHA1: d99f9b633cb2ace824be326996521eb3ea4c31a9
+FileChecksum: MD5: 7668a94a5a312262bb2903824b68af38
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Vince_McMahon.html
+SPDXID: SPDXRef-item10045962
+FileChecksum: SHA1: db5942bc4e692db76d49f05bad92a2305645afcd
+FileChecksum: MD5: 1b12cd8a224542503cc588fc45ebad85
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mark_Thompson.html
+SPDXID: SPDXRef-item10045931
+FileChecksum: SHA1: 79002fa68d8dc51bc402c91d85cc54f5c26aca17
+FileChecksum: MD5: 2b9d22a987b85059b37e9463593e033d
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mark_Zuckerberg.html
+SPDXID: SPDXRef-item10045939
+FileChecksum: SHA1: dcc539f3cc99790a84fe0bf4cc8fd0e468e7b702
+FileChecksum: MD5: f2d1712b76001f9c470200f21c359daa
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Masayoshi_Son.html
+SPDXID: SPDXRef-item10045874
+FileChecksum: SHA1: 1e20c51fb4bd718e1987478a5cb20df792ada5b2
+FileChecksum: MD5: 9add615fa871c86040be3ca452627aaf
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/MazaCoin
+SPDXID: SPDXRef-item10045878
+FileChecksum: SHA1: a4f5eff6bef46cf81c1a99815a3bc0f225e66a9a
+FileChecksum: MD5: a439b66a2ec7fd03e7fda1fb7ea335a2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Michael_Corbat.html
+SPDXID: SPDXRef-item10045952
+FileChecksum: SHA1: 64500ddacd9eb643cc9f227e9b8ec0b9c7bb49f1
+FileChecksum: MD5: 4099e93fa87e29934474b420e1e559f8
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Michael_Dell.html
+SPDXID: SPDXRef-item10045944
+FileChecksum: SHA1: dc6088f069df7059ecd11c3a9d61c9da7be0801d
+FileChecksum: MD5: 771d51a1505994fd34e7804879e4ec51
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Abigail_Johnson.html
+SPDXID: SPDXRef-item10045953
+FileChecksum: SHA1: cd64eb1e587beb29844abd503b04bb7c11241bb8
+FileChecksum: MD5: c4a0698af2dc9230f77af6e17d07d19f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ajaypal_Singh_Banga.html
+SPDXID: SPDXRef-item10045950
+FileChecksum: SHA1: 6d50852802aa04f6ddb3b05754cf0d0d31d1d2ec
+FileChecksum: MD5: 4950ac6cc1e99dd018205d55bb687141
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Akio_Toyoda.html
+SPDXID: SPDXRef-item10045942
+FileChecksum: SHA1: cc3a5aeacc6dcb6d690f42828acc5fc861e360ea
+FileChecksum: MD5: 7e8594e7fdb2ce93d085495824fb9c5c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Alan_D._Schnitzer.html
+SPDXID: SPDXRef-item10045923
+FileChecksum: SHA1: a75ecff489821ff87c8d47ee9e69f4552aaa9787
+FileChecksum: MD5: 0f0af5f668f4d1503cb0bcf64ecb2381
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Andrew_Wilson.html
+SPDXID: SPDXRef-item10045898
+FileChecksum: SHA1: 28a320945ca02c44396999dcd6cac7bf15e3fe8b
+FileChecksum: MD5: 5d7ad27fd0fd6e7e8eac74ca19ce80cd
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Andy_Penn.html
+SPDXID: SPDXRef-item10045864
+FileChecksum: SHA1: 68dce0be6fe12783bf8e5322596de6bb5ac06471
+FileChecksum: MD5: 3c5e82021cb0f88e7bf21532fe5c5924
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Anil_Ambani.html
+SPDXID: SPDXRef-item10045938
+FileChecksum: SHA1: d048f8ad41e514f3880ee47fa6b3869b863c93d1
+FileChecksum: MD5: 29ccabbb76fe36da887781c18e0c7e6d
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Auroracoin
+SPDXID: SPDXRef-item10045912
+FileChecksum: SHA1: 24ab7d058f14eae1c0a55d4cedc0745a2859002a
+FileChecksum: MD5: d8357611ae8aa8ee9c6e8481e27b330b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bill_Stromberg.html
+SPDXID: SPDXRef-item10045964
+FileChecksum: SHA1: 2d8d03e4aaa616902735e5292f053ec3f8c13575
+FileChecksum: MD5: bbce7d6e87fc2f332c2fb25d03388bd9
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bitcoin_Cash
+SPDXID: SPDXRef-item10045943
+FileChecksum: SHA1: d3328c5f4cfb908e4015c49a71e289c649570d4f
+FileChecksum: MD5: 0f5d9ab3e4b4f3aed6ad02ba5cabc840
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bob_Dudley.html
+SPDXID: SPDXRef-item10045957
+FileChecksum: SHA1: 9701949f92a996b507913bee223600086dd4c80d
+FileChecksum: MD5: 4e02f911dc575dc8b7a062324d8d0a73
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Brian_L._Roberts.html
+SPDXID: SPDXRef-item10045863
+FileChecksum: SHA1: 8d050c3bc6fc3a768d9c8f8600bd7ab9407c43cf
+FileChecksum: MD5: 73061adc10d1b097d4dfd7586082775a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Chan_Zuckerberg_Initiative
+SPDXID: SPDXRef-item10045934
+FileChecksum: SHA1: 5927445b0da21794498ef1f8e02eb5540b737ca9
+FileChecksum: MD5: 303f6c078203514e29ed472163fadb61
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Chris_Beard.html
+SPDXID: SPDXRef-item10045926
+FileChecksum: SHA1: aa7dac6c7ab07025cd9a23799f13729e53b25022
+FileChecksum: MD5: 066a53d3cd4b73a1aa25805cf0de15c1
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Christian_Sewing.html
+SPDXID: SPDXRef-item10045891
+FileChecksum: SHA1: 9a35aed37a0fdfbdc64282f1b5745ffa14f93c3d
+FileChecksum: MD5: 553508a909214fc09e7c340e17910b0b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/C_Vijayakumar.html
+SPDXID: SPDXRef-item10045888
+FileChecksum: SHA1: 2212827bb84933cf4749c7e3212e1c5b268e198f
+FileChecksum: MD5: 54d427ef2fc9f12621f35ee071c98e3c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Darren_Woods.html
+SPDXID: SPDXRef-item10045910
+FileChecksum: SHA1: eeb5c1dbc14401b9b7102b76454f218c12b7348b
+FileChecksum: MD5: 3f14394f9f707e92793d3bc9e3e4628e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dash
+SPDXID: SPDXRef-item10045956
+FileChecksum: SHA1: 41680c634deb2c2d00f3ef47c3cade153d711e47
+FileChecksum: MD5: 80ad7274a65eb8830525b30acf644768
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dash_(cryptocurrency)
+SPDXID: SPDXRef-item10045920
+FileChecksum: SHA1: 5d8f926fd1806bd63370cc5525c138b7a5ccd8f2
+FileChecksum: MD5: 8ce071c604f6ef6cd42c8e7c77f3a346
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dash_(disambiguation)
+SPDXID: SPDXRef-item10045866
+FileChecksum: SHA1: cb88fa832d1dfacb06dea1809a4e9ad42662431e
+FileChecksum: MD5: 4aa5ec850015ed5836ad2ffc68d4ac07
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dave_Lewis.html
+SPDXID: SPDXRef-item10045904
+FileChecksum: SHA1: 46e75edede2d4abda42b8757cddd0365bb54757d
+FileChecksum: MD5: 4b25c74b92702c30fd75df45ce8bf1f5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/David_Simon.html
+SPDXID: SPDXRef-item10045868
+FileChecksum: SHA1: cad9ef0153834c6daa389705ff02067960200cbd
+FileChecksum: MD5: 37c70762924a00fc1454c8168f456a12
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/David_S._Taylor.html
+SPDXID: SPDXRef-item10045908
+FileChecksum: SHA1: 3ac11f8c6debadf3836d83e7a096d1e061d0e6f5
+FileChecksum: MD5: f716620051cbf4c27cfba5bb3e17043a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Denise_Morrison.html
+SPDXID: SPDXRef-item10045872
+FileChecksum: SHA1: 38e0fd53f13f5c9bea5a1a5397d6c6f0ef582fb5
+FileChecksum: MD5: b5380a2241e2eafd7959fe9859b4dabc
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Devin_Wenig.html
+SPDXID: SPDXRef-item10045914
+FileChecksum: SHA1: 3d78f7244f685af0590423699adc8c6b3dfc54cb
+FileChecksum: MD5: 7aa1844de0772473a352db32c0897d86
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Donald_Trump
+SPDXID: SPDXRef-item10045993
+FileChecksum: SHA1: 599265d7f9c5d08b665cc1deb3423d76f6b7758f
+FileChecksum: MD5: f1b77a1e06b816bcfd2bb4cdb20c4bd5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Donald_Trump.html
+SPDXID: SPDXRef-item10045909
+FileChecksum: SHA1: 599265d7f9c5d08b665cc1deb3423d76f6b7758f
+FileChecksum: MD5: f1b77a1e06b816bcfd2bb4cdb20c4bd5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Douglas_L._Peterson.html
+SPDXID: SPDXRef-item10045905
+FileChecksum: SHA1: 0a61c9efa34c53c47a4d5b9a0c94e476e4b292c6
+FileChecksum: MD5: 45c8a8be005798dd59053e5f3d410ebb
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Elon_Musk.html
+SPDXID: SPDXRef-item10045915
+FileChecksum: SHA1: 127379f945a191afc28b1c2f6e613d56d5175c93
+FileChecksum: MD5: c2ce783a3896e0650ca3d7f53a4041af
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Emma_Walmsley.html
+SPDXID: SPDXRef-item10045961
+FileChecksum: SHA1: d7b71327fa9ad4b46f2c535e01f4688d5708e9fd
+FileChecksum: MD5: 559e337cbdc9755be034f2bd839d0e1c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Evan_G._Greenberg.html
+SPDXID: SPDXRef-item10045855
+FileChecksum: SHA1: 3c7fd3697ccccafdeddfad0bc320161a971104ef
+FileChecksum: MD5: 1e6d10983f4764b0b05c05adfe858742
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Fake_news
+SPDXID: SPDXRef-item10045941
+FileChecksum: SHA1: 09e25e8af212aae345b8958bd5a5bf99f3a4293e
+FileChecksum: MD5: 742de1d7a912ef4778580ded091e1396
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Felipe_Gozon.html
+SPDXID: SPDXRef-item10045876
+FileChecksum: SHA1: 329580a5034aebff624f60ae73a1e9ed8cb75112
+FileChecksum: MD5: 2ee4df4fd6c213748773aa293d76409b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/G._V._Prasad.html
+SPDXID: SPDXRef-item10045935
+FileChecksum: SHA1: 9809cff819a52fa9bb4ea5b58b02cc05bf711df5
+FileChecksum: MD5: ebe892be290648960dd9173d6915dd0d
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Hans_Vestberg.html
+SPDXID: SPDXRef-item10045897
+FileChecksum: SHA1: efed8e41df61aca0a41edb6be569a67c265e0cb3
+FileChecksum: MD5: f39b5f67fec5f4e2d3cda819b6c15501
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Harald_Kr~~ger.html
+SPDXID: SPDXRef-item10045933
+FileChecksum: SHA1: 777d12d37fb31408ecff2488647757ce282e6480
+FileChecksum: MD5: f8c9f2f784d8a7806228d7eac0329a32
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Herbert_Fisk_Johnson_III.html
+SPDXID: SPDXRef-item10045871
+FileChecksum: SHA1: 1db377b872d5830155f48bb7cdf87d3667e796bc
+FileChecksum: MD5: c4d03c93b0e09cbef404067dfb407012
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ho_Ching.html
+SPDXID: SPDXRef-item10045924
+FileChecksum: SHA1: 0e30db880378eb9fb521ab0fbebfe7a2966c4c4a
+FileChecksum: MD5: 78a07002a161f13df7cd64257df3a39e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Isaac_Larian.html
+SPDXID: SPDXRef-item10045927
+FileChecksum: SHA1: e6b36187b97bd27dc0b6d45dca2df2c8ca03acdf
+FileChecksum: MD5: 0de57f1b0b6f8102579c4f36f891c79e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/J._Clifford_Hudson.html
+SPDXID: SPDXRef-item10045859
+FileChecksum: SHA1: d9b46ad28b1e87763acf82e9c4178ddc507d0a2d
+FileChecksum: MD5: 9467f0ea1d913a2dacccf66e686d3184
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jean-Pascal_Tricoire.html
+SPDXID: SPDXRef-item10045870
+FileChecksum: SHA1: 2573306f0dac9f59dbc614d2408e249c867b06f2
+FileChecksum: MD5: a1224fe059fd76d02a73ed9d7a289cdd
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jim_Umpleby.html
+SPDXID: SPDXRef-item10045882
+FileChecksum: SHA1: 7644c66b4b97b709064a64afdf2b510bc5692222
+FileChecksum: MD5: 2278ad29a231623b91fb56ed2996683e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/John_Mackey.html
+SPDXID: SPDXRef-item10045948
+FileChecksum: SHA1: e49f74c020c0788a095e2bbcc5834867ab626664
+FileChecksum: MD5: 80c5474684b4ec4497cb7cc6f9e5d47a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/John_Strangfeld.html
+SPDXID: SPDXRef-item10045955
+FileChecksum: SHA1: 3273498a347329492429b0eb4256fba303025cb8
+FileChecksum: MD5: 6ebe02513d304ad610fa096a11254b47
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jonathan_Ornstein.html
+SPDXID: SPDXRef-item10045883
+FileChecksum: SHA1: 874d2510ab7f5d45bdd91e4ad4095b62831f4c3f
+FileChecksum: MD5: 0a9bfc7700daad3887355f19400d3587
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Joseph_C._Papa.html
+SPDXID: SPDXRef-item10045951
+FileChecksum: SHA1: fcc881c56730dc8952f237b6e9b417e6eace3587
+FileChecksum: MD5: d8568a6b7c7dd1efdc31b84c7592347e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Kevin_Johnson.html
+SPDXID: SPDXRef-item10045867
+FileChecksum: SHA1: 109b94a0e9e100a8472095cc070973754951df8f
+FileChecksum: MD5: fce7e75efe7540101280d9da2e6adc5c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Lakshmi_Niwas_Mittal.html
+SPDXID: SPDXRef-item10045940
+FileChecksum: SHA1: f81ab761d137d8ccba28984ec0df93839a7a0788
+FileChecksum: MD5: 6559d87130d20615301ba7ad435c2f86
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Les_Wexner.html
+SPDXID: SPDXRef-item10045889
+FileChecksum: SHA1: 3d1997ff159fe8771b03f66a73bc7fd0a432243d
+FileChecksum: MD5: c96423b5192325cf557959b831222493
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Li_Dongsheng.html
+SPDXID: SPDXRef-item10045945
+FileChecksum: SHA1: aa8b2bb4c368090c66d734a1a7f1b2ef67224dd6
+FileChecksum: MD5: 87149bc16f1c82a33ea8c36cc4ce23ec
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Lisa_Su.html
+SPDXID: SPDXRef-item10045949
+FileChecksum: SHA1: 879f31d4de242217b51be9644d4792d61520dd45
+FileChecksum: MD5: bb844f526cf80d51b0d0e0ffe73e6990
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/List_of_chief_executive_officers.html
+SPDXID: SPDXRef-item10045893
+FileChecksum: SHA1: fc582b7151f0a1ee8a222a8dcaf5e7e018a5ef31
+FileChecksum: MD5: 80eb9e442bf41c39aee1f2dd2c168454
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/List_of_cryptocurrencies
+SPDXID: SPDXRef-item10045869
+FileChecksum: SHA1: f39f20e3c67d07cd26658f80a4a3781962972805
+FileChecksum: MD5: 24abd56e33947409c2cd7eb978a2c6da
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Marillyn_Hewson.html
+SPDXID: SPDXRef-item10045919
+FileChecksum: SHA1: 4878f2187e1e728365a7edde0053ddef7eafba6b
+FileChecksum: MD5: 4f54379f205eb95cf87a9b7bb68166f2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mark_Hurd.html
+SPDXID: SPDXRef-item10045900
+FileChecksum: SHA1: 1314169fead088105c3e5a0539848fe84afc05ba
+FileChecksum: MD5: c1313c196c0ceb08a62a2fc72ebeeee2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Monero
+SPDXID: SPDXRef-item10045929
+FileChecksum: SHA1: bfe40076b167ca348f5fc2074d42b698612e2d98
+FileChecksum: MD5: dbad940a1194902c5b9c14dbc0c74142
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Monero_(disambiguation)
+SPDXID: SPDXRef-item10045913
+FileChecksum: SHA1: b3af843cdbdaf2827a173d07b43961e2f94270f7
+FileChecksum: MD5: 46a6f9ebd6532f89586d7b113fc6c8aa
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mukesh_Ambani.html
+SPDXID: SPDXRef-item10045877
+FileChecksum: SHA1: a981b9dcda5e85b6c105750839610f84efc8981d
+FileChecksum: MD5: 211cf193a06d54754372f81040b0b273
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/NEM_(disambiguation)
+SPDXID: SPDXRef-item10045892
+FileChecksum: SHA1: 884d80863ef6bd181923ac3b9a06e1742b7564a1
+FileChecksum: MD5: a7f86ba4b848e9919c113f5fc82b7bd1
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Nxt
+SPDXID: SPDXRef-item10045960
+FileChecksum: SHA1: 3bc4d015bd81652a6112dfbac51335a26831b461
+FileChecksum: MD5: 1a0eec71bb145c4c2c91f0860a6e0d4a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Oh-Hyun_Kwon.html
+SPDXID: SPDXRef-item10045858
+FileChecksum: SHA1: 39e02ff8ba681a009581c8ccfaf2b6588fe5cd05
+FileChecksum: MD5: ae93a3b0a862fb35e354a32c29ce27f2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Phiwa_Nkambule.html
+SPDXID: SPDXRef-item10045890
+FileChecksum: SHA1: ee299fd45dec34a0c7d4cde1f06430a264e19f70
+FileChecksum: MD5: ccba82b7ef8f13643be61b23a0328b07
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ramon_Laguarta.html
+SPDXID: SPDXRef-item10045918
+FileChecksum: SHA1: 0ba432e78fcc121aad159de726a247d9242af4ca
+FileChecksum: MD5: b6310e8086e43a9fb59ad94c2cfcba60
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Randall_L._Stephenson.html
+SPDXID: SPDXRef-item10045903
+FileChecksum: SHA1: 17871b1cea22075af3c1f8dd04a98147aee46fe0
+FileChecksum: MD5: 66417c33f287f2672328a90a243264ab
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ripple
+SPDXID: SPDXRef-item10045856
+FileChecksum: SHA1: 686470eef439a3944e69f5e0cf020d5d3c558a8f
+FileChecksum: MD5: a844ab8e50c02520232324cb9233a973
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ripple_(disambiguation)
+SPDXID: SPDXRef-item10045887
+FileChecksum: SHA1: cdb951164cf0cb4eedc7f6b90b3b023daf18be1b
+FileChecksum: MD5: 081225674dc73c91a2a5829f6280e26c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Robert_Noel.html
+SPDXID: SPDXRef-item10045879
+FileChecksum: SHA1: 522b642731d88ebf104b35f6477abc63c1a654db
+FileChecksum: MD5: cc69b88dcd54d0f0ad0f014d0abb0233
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Safra_Catz.html
+SPDXID: SPDXRef-item10045860
+FileChecksum: SHA1: be1cf9a0898d8e473afc15d8bc59fa7ccbf7ba07
+FileChecksum: MD5: c84dbbf6c9e03e6f1c9f32fe866958cc
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Salil_Parekh.html
+SPDXID: SPDXRef-item10045932
+FileChecksum: SHA1: 8a8a57720240e41f5be51987ec3896fcbd456916
+FileChecksum: MD5: 5b449db73fbea69e2137c1364bacdba9
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Satya_Nadella.html
+SPDXID: SPDXRef-item10045917
+FileChecksum: SHA1: ee616e2e7fa7d66c5d6a090c9c3685d2ff36c200
+FileChecksum: MD5: 0e1ca11e2c13fee7878824dba4bf3a0a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Shantanu_Narayen.html
+SPDXID: SPDXRef-item10045921
+FileChecksum: SHA1: 3bcd5b3502da38c3d428f75e2c025f6494fa07ae
+FileChecksum: MD5: 3e2c6df96242f1048ca535cd131e2f66
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Spencer_Rascoff.html
+SPDXID: SPDXRef-item10045880
+FileChecksum: SHA1: c416638265e1a321fdb8198a42c09ba0d1be0022
+FileChecksum: MD5: 1e98a803b6aa437f4c59376d5a2d4924
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Stefano_Pessina.html
+SPDXID: SPDXRef-item10045936
+FileChecksum: SHA1: 0330488afb306efc2d70fe36b695c1ccc4143e14
+FileChecksum: MD5: 2cb7b29c834a3c856688ebe989943b7c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Stellar
+SPDXID: SPDXRef-item10045875
+FileChecksum: SHA1: 915339bb0546eac5ca4e5e4ed2f4b3cf4eb66075
+FileChecksum: MD5: 4e87138493941fe313d6a98f3f75e94a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Steve_Burke.html
+SPDXID: SPDXRef-item10045937
+FileChecksum: SHA1: f091c6357a438bc06fbaedb90d1be1394dec653f
+FileChecksum: MD5: 9552de04ceca37cc3072223c8ae083a6
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Steven_A._Kandarian.html
+SPDXID: SPDXRef-item10045886
+FileChecksum: SHA1: 0ddc73ac70540eb2321d219cc98672feef461a06
+FileChecksum: MD5: 9ea3c0d6bae06b273524b0f7fe4fa12f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Steve_Rowe.html
+SPDXID: SPDXRef-item10045865
+FileChecksum: SHA1: 0a22cd505bd848a967baf3cc5d4a3c83ffb528e2
+FileChecksum: MD5: f246915b38c17b2e98345f9a6bd45c3f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Terry_Gou.html
+SPDXID: SPDXRef-item10045896
+FileChecksum: SHA1: 8ffa589e506bbd3b6d70182532820d8b2f0facc6
+FileChecksum: MD5: 50b6e4ee1e6d5f802e84355de4304ca9
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tether
+SPDXID: SPDXRef-item10045928
+FileChecksum: SHA1: a49aa6207dc85a80c942f35087e0d69ddeb29876
+FileChecksum: MD5: 2d383b932652814502ee0e98b9933cc6
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tether_(cryptocurrency)
+SPDXID: SPDXRef-item10045901
+FileChecksum: SHA1: 8b7892c695a1712286ef3b87148e05bab9deb4cb
+FileChecksum: MD5: 55ccd0714cd521120bd66b4f3355b503
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tether_(disambiguation)
+SPDXID: SPDXRef-item10045911
+FileChecksum: SHA1: 8a50d576b28970d40291bf442db8a88e89b5a59a
+FileChecksum: MD5: 81902aec5877b8ac4ac1c6eabf953a7f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/The_Great_British_Bake_Off
+SPDXID: SPDXRef-item10045958
+FileChecksum: SHA1: 2cb5b3940c5f7f48c73b46db27248f70f3a7809f
+FileChecksum: MD5: c8e127eb479e69b83bf8d17fa24763f4
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tidjane_Thiam.html
+SPDXID: SPDXRef-item10045922
+FileChecksum: SHA1: a2dc9e3c00ee6738e02ff8fddf63f84c6f89879d
+FileChecksum: MD5: 25981ae1bf03e8da427ef7a6b015b6f6
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tim_Armstrong.html
+SPDXID: SPDXRef-item10045895
+FileChecksum: SHA1: f7217302cebfacd166e1f1308a56ac7158c10478
+FileChecksum: MD5: 090cb3129e334847835a997784e324b9
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tim_Cook
+SPDXID: SPDXRef-item10045946
+FileChecksum: SHA1: 30f484bc73dc89c2bb6622c43e3535ca8b00e993
+FileChecksum: MD5: deea684cc66b94d103f48a620e283563
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tim_Cook.html
+SPDXID: SPDXRef-item10045894
+FileChecksum: SHA1: d3aad422557e8c41e8fc656ec8627ee77e2fa7dc
+FileChecksum: MD5: 82886ad5cd4a79576dd32139f6fd19b0
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Timothy_J._Sloan.html
+SPDXID: SPDXRef-item10045954
+FileChecksum: SHA1: fb1ef4a89c0b7d2d2691ce2ef7790ba46a2ebee5
+FileChecksum: MD5: ccca5e75d053989e60204891d7f2b609
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Titcoin
+SPDXID: SPDXRef-item10045925
+FileChecksum: SHA1: 02b15f0af56994454d7cf5b6aff9e3ab734162c0
+FileChecksum: MD5: f193a43442cdcbf59bfb3f059ae5b166
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tony_Aquila.html
+SPDXID: SPDXRef-item10045873
+FileChecksum: SHA1: 0abc4d2242952ddcc54106059ded610925cda4ee
+FileChecksum: MD5: 74e50e2132379762283e8fac1b29052f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Vasant_Narasimhan.html
+SPDXID: SPDXRef-item10045963
+FileChecksum: SHA1: 9ae3f26876eac612597681f94bb37e8694ca7aef
+FileChecksum: MD5: a0e0eb34f7fb175d6edbac94b018b2d6
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Vijay_K._Thadani.html
+SPDXID: SPDXRef-item10045899
+FileChecksum: SHA1: 3cc05c0caf3f7670badd189e3c05556a98e84a4c
+FileChecksum: MD5: 6d8d8d57c9afe344af1048373cabfe8f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Vittorio_Colao.html
+SPDXID: SPDXRef-item10045884
+FileChecksum: SHA1: 9bf987aea03f4f2876e3a89bc33fcc0029a7e18f
+FileChecksum: MD5: 1aab49514e3fd4d06d916b95f3077de0
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Warren_Buffett.html
+SPDXID: SPDXRef-item10045861
+FileChecksum: SHA1: b2a7c7911a50e55e66dfdb36e3966b3a84e659a5
+FileChecksum: MD5: e337ceecac08b7f75a30f7195edae29b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/William_H._Rogers_Jr..html
+SPDXID: SPDXRef-item10045930
+FileChecksum: SHA1: a418f72cf0d6f9766bc8d0e464f37dec912eeb09
+FileChecksum: MD5: d380b37ac2257c96cb34161fecca4947
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Zcash
+SPDXID: SPDXRef-item10045857
+FileChecksum: SHA1: 0fcc6e13cae021b919ab3b23800933d48ddcc759
+FileChecksum: MD5: 20fa2c4b2a98498f20042003b8ab93c4
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mark_Parker.html
+SPDXID: SPDXRef-item10045780
+FileChecksum: SHA1: 75b3ebd6d275e779777dd5d7be0d41d2bd3403de
+FileChecksum: MD5: bfcfaf211e2e454e26a3d57a690c7c92
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mark_Weinberger.html
+SPDXID: SPDXRef-item10045808
+FileChecksum: SHA1: a98a5244a0b9fb37111607b65801fba064b5a007
+FileChecksum: MD5: 271a1ec6c181c81970d7fbd260847a3b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Mary_T._Barra.html
+SPDXID: SPDXRef-item10045817
+FileChecksum: SHA1: 8abc9afb6b7e6028d8381cd13fc255723f739db5
+FileChecksum: MD5: 21d2f937a1427d960012b0dd0aeaa987
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Matthias_M~~ller.html
+SPDXID: SPDXRef-item10045766
+FileChecksum: SHA1: 307cf7372ca3820a2a20c3b0969c8fbe8c9985f6
+FileChecksum: MD5: 6453384d92b1122657771513761f8490
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Meg_Whitman.html
+SPDXID: SPDXRef-item10045770
+FileChecksum: SHA1: 0a4bfa9e36e1d676bf8acd86d3c01c918ffc5590
+FileChecksum: MD5: 36ba1665cd5baf882e0ccb2bc7584298
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Michael_J._Saylor.html
+SPDXID: SPDXRef-item10045835
+FileChecksum: SHA1: d20a1362839bc65d7d8e34b4952a0982144a2862
+FileChecksum: MD5: 1788d63b75027e90acdc2af064b24ba8
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Abidali_Neemuchwala.html
+SPDXID: SPDXRef-item10045785
+FileChecksum: SHA1: 7d9c80116ae8318964b4b53e2799765b87827b6f
+FileChecksum: MD5: 6956f0c05b7317dbd3e81b6c02a36ec9
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Alan_Joyce.html
+SPDXID: SPDXRef-item10045837
+FileChecksum: SHA1: bb0035784108fc27ea6a24f4e5f8b468c14578ef
+FileChecksum: MD5: b456b55b941be0c33c499daba8b5523c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Andrew_S._Rosen.html
+SPDXID: SPDXRef-item10045810
+FileChecksum: SHA1: d1a86c70de2bc3cc7b16f9f8499ffadc1d1ec004
+FileChecksum: MD5: 59b270cd2ead9884a2b7943ae647e8fc
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ann_Sarnoff.html
+SPDXID: SPDXRef-item10045838
+FileChecksum: SHA1: 3517be34a234d48628c0d50f46bb09bc56e8572b
+FileChecksum: MD5: becb72481c0e0ecb975673db428611cc
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ben_van_Beurden.html
+SPDXID: SPDXRef-item10045821
+FileChecksum: SHA1: 7bcd9c43d01821ab1f4a638633edba4f3bec7f8f
+FileChecksum: MD5: 4fefaff42d549c2d51572db857b78515
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bill_Hilf.html
+SPDXID: SPDXRef-item10045767
+FileChecksum: SHA1: dc85998d2bb0cbdccd1502b275688582727e06d1
+FileChecksum: MD5: 11a6db03b505d84df0fea006698dbf7c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bill_McDermott.html
+SPDXID: SPDXRef-item10045824
+FileChecksum: SHA1: d48a1ba1369eaaaf3b2a1274a1a3d0c6f4957b86
+FileChecksum: MD5: c5351ef2bc7c937b69afb7014721cd53
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bill_Nuti.html
+SPDXID: SPDXRef-item10045794
+FileChecksum: SHA1: 5c698d1e4c5508b6f329a461bf87b538ae482cc6
+FileChecksum: MD5: 42168c2b1be53fec845da19a4eb54c76
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bitcoin
+SPDXID: SPDXRef-item10045800
+FileChecksum: SHA1: 9fc3c10aac5abcdab3ebdae88aa80517f7504db8
+FileChecksum: MD5: 78b57efc296b9dfe630fcec6a0d8ce9e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Bob_Iger.html
+SPDXID: SPDXRef-item10045796
+FileChecksum: SHA1: d4748618a64cff60a3c6ca3a441fbf27a2d3aa47
+FileChecksum: MD5: 5a90f55b2f126e7018e669341e7e2abb
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Brian_Cornell.html
+SPDXID: SPDXRef-item10045793
+FileChecksum: SHA1: 669e0a1b42a3f9fe28565fac6b57f74288b76a8f
+FileChecksum: MD5: ff4e4fb66695372394036e6afdd48f1b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/B~~rje_Ekholm.html
+SPDXID: SPDXRef-item10045839
+FileChecksum: SHA1: f572e022c843b92d3b721e3eef71df0d285d08b7
+FileChecksum: MD5: 547e574d3e7624a395a2adc324fc0e41
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Carlos_Ghosn.html
+SPDXID: SPDXRef-item10045782
+FileChecksum: SHA1: 6773ff4b462b81be89f909cd0d44f88916b84e6e
+FileChecksum: MD5: 81994e6aaa8e3fae7be008d2476048e9
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Carlos_Torres_Vila.html
+SPDXID: SPDXRef-item10045828
+FileChecksum: SHA1: ad17902f0ddbd808edbf1f8e9a4bf1a44adca281
+FileChecksum: MD5: cace65f6973f5c25e37c5378c41b00ab
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Charles_G._Koch.html
+SPDXID: SPDXRef-item10045797
+FileChecksum: SHA1: 9354d503facc1630a9992a57d644e9a508ba6f89
+FileChecksum: MD5: abb967be9960148ad59f8632b357b1a3
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Charles_Scharf.html
+SPDXID: SPDXRef-item10045765
+FileChecksum: SHA1: 6e66bd949ba385bcb635130b034da2a1da60e282
+FileChecksum: MD5: 2269571e8ba0c78ee4e896b1cf18cd0e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Charles_Woodburn.html
+SPDXID: SPDXRef-item10045820
+FileChecksum: SHA1: 17166e86000f5fce9b65c6bea32312134709fe87
+FileChecksum: MD5: 560cd41165e0089002d2eca9801cbbd2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Chua_Sock_Koong.html
+SPDXID: SPDXRef-item10045802
+FileChecksum: SHA1: bea26dd55c5ed506e1d56347c0298d663ba274e3
+FileChecksum: MD5: 26559cc936ecf843cdcfd306c2bff7f2
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Chuck_Robbins.html
+SPDXID: SPDXRef-item10045831
+FileChecksum: SHA1: b9c45733c5906549d5087998412f1e6d85264634
+FileChecksum: MD5: c417dff8ae2207551cad9c66139a46e5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Daniel_Zhang.html
+SPDXID: SPDXRef-item10045799
+FileChecksum: SHA1: 7531a6c8c3734be6e1a2ff239391e117e2bf246f
+FileChecksum: MD5: 523545a7a4ac0c5bbe1e20fe2dca0630
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/David_I._McKay.html
+SPDXID: SPDXRef-item10045807
+FileChecksum: SHA1: f52242b4955bb87610a6d70bb67d415c793a80d1
+FileChecksum: MD5: 64f2dfe3b4d92a40e02b70a16e54e1a0
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Daymond_John.html
+SPDXID: SPDXRef-item10045803
+FileChecksum: SHA1: 6caa3532d5af53a31db9d0ee7d863559d3d927c4
+FileChecksum: MD5: 243fe37fa812b9c414a75575e7315772
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dennis_Muilenburg.html
+SPDXID: SPDXRef-item10045825
+FileChecksum: SHA1: 4fc7999a6995de53e269e77c623856107a1f9fd0
+FileChecksum: MD5: 59a1243e0fdc7691ef28d95bb62cbec7
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dieter_Zetsche.html
+SPDXID: SPDXRef-item10045812
+FileChecksum: SHA1: bcd633d95bc3cc3844e5a9e64afc71ada344b367
+FileChecksum: MD5: 5773068b97e1c0ebbf6ddbe693307dad
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Dilip_Shanghvi.html
+SPDXID: SPDXRef-item10045846
+FileChecksum: SHA1: ba661d0d85c79995289f8eefa950380a97ad637a
+FileChecksum: MD5: 3b9604f8dddd01a81c801e97ec963b03
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Doug_McMillon.html
+SPDXID: SPDXRef-item10045806
+FileChecksum: SHA1: d6ea9ac8cd3aeb47f8407dcaa3eefe91513d93c4
+FileChecksum: MD5: 58f9557b5f39f90c90e110dce9873ace
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Doug_Parker.html
+SPDXID: SPDXRef-item10045776
+FileChecksum: SHA1: 5ebb23ef68b754a538ee9951af8f272c2fa68a84
+FileChecksum: MD5: 1ef2810dfd5f4a7beca0d28d32ef93da
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Edward_D._Breen.html
+SPDXID: SPDXRef-item10045805
+FileChecksum: SHA1: f8f702844ea362fb27c5bf520ca275b2339a99d3
+FileChecksum: MD5: e21563f3271a41092aa1e6f63466bf6b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/EOS.IO
+SPDXID: SPDXRef-item10045906
+FileChecksum: SHA1: f7dd596a89dad737075d13693fe5b0f655ee04aa
+FileChecksum: MD5: 22448339e8f524cf3a0895fe27485cc3
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ethereum
+SPDXID: SPDXRef-item10045959
+FileChecksum: SHA1: eb276783ba2873fe6e76ebcfeaf696a3737e6cc4
+FileChecksum: MD5: eae65a1d0a8a3afc2dc327332303b23e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LGPL-3.0
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ethereum_Classic
+SPDXID: SPDXRef-item10045902
+FileChecksum: SHA1: 9bbff1f6f64daef6f5bedf580ed348edc1859e13
+FileChecksum: MD5: 7f57f7a375f93ff1bb0f4547bb15f9e4
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LGPL-3.0
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Euro
+SPDXID: SPDXRef-item10045823
+FileChecksum: SHA1: 264e682b8761dcc9a9c99379a6c8eaa7915b03fc
+FileChecksum: MD5: f454371628abaebeb04afd743159c1a3
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Francisco_D'Souza.html
+SPDXID: SPDXRef-item10045784
+FileChecksum: SHA1: eef6100ea9b901dde5f213ac3b2347c2e57f2a6d
+FileChecksum: MD5: cff084cabeaadc1b07ac7a9753fe671a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Gary_C._Kelly.html
+SPDXID: SPDXRef-item10045829
+FileChecksum: SHA1: ff24275001b61e67c3d75ff19f80dfadc0441a40
+FileChecksum: MD5: 9790f0496a2be7292790a785fb1dfc21
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Google
+SPDXID: SPDXRef-item10045885
+FileChecksum: SHA1: 1f95d54913fdeaf83613ff22f51507bf5a562ffc
+FileChecksum: MD5: 12a86c8b37207a543cb0509967163321
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: JSON
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Greg_Creed.html
+SPDXID: SPDXRef-item10045818
+FileChecksum: SHA1: 54252254da4ea432c223bc65684a4d09ab838397
+FileChecksum: MD5: b94174750d0973c646a4f575ef11f895
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Gridcoin
+SPDXID: SPDXRef-item10045916
+FileChecksum: SHA1: 7a549e8f5ef64a870fc5258edd7140c8db2f2e16
+FileChecksum: MD5: c1db3bbc5e5c63409761b2cc8f148172
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Gunupati_Venkata_Krishna_Reddy.html
+SPDXID: SPDXRef-item10045791
+FileChecksum: SHA1: 6cada3c48b9e5a982f42a74d8133af97f3b02221
+FileChecksum: MD5: c82899e1f163ece0a2dd064de4b80cff
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/H._Lawrence_Culp_Jr..html
+SPDXID: SPDXRef-item10045768
+FileChecksum: SHA1: 347a7b1fb7543b05c37429706c95deb83e4e8075
+FileChecksum: MD5: 212547496fa4f3db4d35f2b8d43ccdeb
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Hubert_Joly.html
+SPDXID: SPDXRef-item10045771
+FileChecksum: SHA1: 84ca263d66c1abefeb6f04b680a01cd633022fff
+FileChecksum: MD5: 1ddc450660fb38e5bba8400efce2b429
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ian_Read.html
+SPDXID: SPDXRef-item10045795
+FileChecksum: SHA1: 363883d7c2413087b93c59e6d2bdf18e65af4bda
+FileChecksum: MD5: ddb10d79bfe2c989243c70c5f4b8e225
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/James_Dimon.html
+SPDXID: SPDXRef-item10045842
+FileChecksum: SHA1: d9526176f8ba0fd1b87afc93e5a811a72641d3d8
+FileChecksum: MD5: 3bcecc680a53699143873ef8da572b2e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/James_Goodnight.html
+SPDXID: SPDXRef-item10045787
+FileChecksum: SHA1: 31078a645bcb241ad0c996318d394cdf7713b89c
+FileChecksum: MD5: 2b6307e54c2674a25fabce4e1b7f7162
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/James_Hackett.html
+SPDXID: SPDXRef-item10045783
+FileChecksum: SHA1: 029c91688b49a93056fa29d99c5dad6fd2e80ec3
+FileChecksum: MD5: 5f8ed12829972163c9e101c4f9db9123
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/James_P._Gorman.html
+SPDXID: SPDXRef-item10045789
+FileChecksum: SHA1: 179efa4cea7b6138245b8a7fd8a896516c3350ed
+FileChecksum: MD5: e232ed9b62da4b9f49abc5c2647c0cf0
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/James_Quincey.html
+SPDXID: SPDXRef-item10045804
+FileChecksum: SHA1: d0f4b11819b928e9d37b7b65dc46bdb218371362
+FileChecksum: MD5: e37aaf409c09794ce3d6aa421c6f3071
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jeff_Bezos.html
+SPDXID: SPDXRef-item10045832
+FileChecksum: SHA1: 81fdcc582c84cf85ad5e21251c9fbf445067a82c
+FileChecksum: MD5: aedb1f5a0db84f71471527b07813abed
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jeffrey_L._Bewkes.html
+SPDXID: SPDXRef-item10045833
+FileChecksum: SHA1: fca3b3378a5f7bfa29e0418a1f30340517178911
+FileChecksum: MD5: 087bf04d94628eb6549c4f29957704f3
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Jes_Staley.html
+SPDXID: SPDXRef-item10045850
+FileChecksum: SHA1: f8a4c93421becf0876652c1a75bc703b908af10d
+FileChecksum: MD5: 8700f9e494a9e1a248680707d9d179c0
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Joe_Kaeser.html
+SPDXID: SPDXRef-item10045834
+FileChecksum: SHA1: 141ebdd89297770c8b563e5c3b186703a6803fb2
+FileChecksum: MD5: 2f1d07e9a94d7e7e899599f0966b9549
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Joseph_Ianniello.html
+SPDXID: SPDXRef-item10045815
+FileChecksum: SHA1: 6a26815f0f24e1a73b6830bf7283a29cfc69f2d6
+FileChecksum: MD5: 5bd85376a59cdfcdb6e80207b2a87ccf
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Joseph_R._Swedish.html
+SPDXID: SPDXRef-item10045853
+FileChecksum: SHA1: e7c6ebad585263e04f5a6b93f183ce791cf67d50
+FileChecksum: MD5: 6160a9788a0a65ee642aed7fc553914e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Julie_Sweet.html
+SPDXID: SPDXRef-item10045845
+FileChecksum: SHA1: 52cc15c7fef82b61f0c7c69797b13ffc85d37e89
+FileChecksum: MD5: b423fedf3b9ff55ec9d972db7230ba1c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Kevin_Sneader.html
+SPDXID: SPDXRef-item10045847
+FileChecksum: SHA1: 727dc2870f52de9f0d3f07fea2c18cbffb2df745
+FileChecksum: MD5: 12d45305ddb5c02ea885ca516fb8dd10
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Kumar_Birla.html
+SPDXID: SPDXRef-item10045786
+FileChecksum: SHA1: 52fddb3032e53529ee2f244b0255afc3fee235ef
+FileChecksum: MD5: c48841d4d7e47b23a09d88355b91cc98
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Laura_J._Alber.html
+SPDXID: SPDXRef-item10045769
+FileChecksum: SHA1: 5070a7454e4976051539f0af46bf20ff0e8f5e79
+FileChecksum: MD5: 153f99d01ac207e82734c2c57a3cca8d
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Lee_Shau_Kee.html
+SPDXID: SPDXRef-item10045774
+FileChecksum: SHA1: 4a77e319c205e60886a269357eab645e5184a0d5
+FileChecksum: MD5: 87a50b874b3e1be3a8e7bcc314a5f82a
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Litecoin
+SPDXID: SPDXRef-item10045881
+FileChecksum: SHA1: 1f9d00299993646346911dd2453cdc7bb032bfd7
+FileChecksum: MD5: b775efb476bfd71977c596c43d95e254
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Lloyd_Blankfein.html
+SPDXID: SPDXRef-item10045843
+FileChecksum: SHA1: 8958d47bfa6a17dc1b6919ca3f34fb51a8351f43
+FileChecksum: MD5: 121eed5f6db9e1f3548c9e037e3b3615
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Monero_(cryptocurrency)
+SPDXID: SPDXRef-item10045907
+FileChecksum: SHA1: 2e4e029dbb1b8b585655513d697c593f91bb07e7
+FileChecksum: MD5: ce3c58704ccd351f1fcb3d02de1f92f9
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Nano
+SPDXID: SPDXRef-item10045836
+FileChecksum: SHA1: 24a9f3d9055b485e433f2099c81c3130ea31fb39
+FileChecksum: MD5: 36f7745adf793d45da71de33447a404c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Nano_(cryptocurrency)
+SPDXID: SPDXRef-item10045777
+FileChecksum: SHA1: 6da8348f09c9979b3f31c7aa8034544b7aa3e673
+FileChecksum: MD5: 060fde967e90cbac88a297a8596a3422
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Nano_(disambiguation)
+SPDXID: SPDXRef-item10045792
+FileChecksum: SHA1: 8d6583189dd15113cfc77145483dddcb9333cc3d
+FileChecksum: MD5: 0a2ed68f56eac067dbc370df16324dcb
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/NEM_(cryptocurrency)
+SPDXID: SPDXRef-item10045849
+FileChecksum: SHA1: 612374d94a7f55138a7c988697481e60263c9b98
+FileChecksum: MD5: 319bed59ba04a13cab4f2fed074302da
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/NEO
+SPDXID: SPDXRef-item10045854
+FileChecksum: SHA1: 1bf77b39c9ba94643ee3149a33370907232c9e73
+FileChecksum: MD5: 0f49a511ecba047adccc20e11975d105
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Oscar_Munoz.html
+SPDXID: SPDXRef-item10045775
+FileChecksum: SHA1: 943b3885d6172076de5bf2704365afd54c86d007
+FileChecksum: MD5: ff9acd6857bc12ba0a7e3edd2e2a1b1b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Patrice_Louvet.html
+SPDXID: SPDXRef-item10045779
+FileChecksum: SHA1: 5e70f7e438884300b3f2ebca980927e89694fd78
+FileChecksum: MD5: af3dc862048bdc62c43ee3843ebff0bd
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Peercoin
+SPDXID: SPDXRef-item10045851
+FileChecksum: SHA1: 2f824faed00628dfd3af31e5c3e07e50c109e760
+FileChecksum: MD5: b7dcac46d2574bb4c6955b534832eb61
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Politics
+SPDXID: SPDXRef-item10045827
+FileChecksum: SHA1: 8dcf23e4070b4706f5976fabc4ac563e0e863bff
+FileChecksum: MD5: 839e919f62ad4ad8191ce6b8a2ff6318
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/PotCoin
+SPDXID: SPDXRef-item10045996
+FileChecksum: SHA1: 3d804e6417a1c5be64607953d317389a6f5df7a2
+FileChecksum: MD5: 130467cb702c986a780fbf27b523d913
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Rajeev_Suri.html
+SPDXID: SPDXRef-item10045822
+FileChecksum: SHA1: 609c6de81807453ae25fe04bb898da59d3e53f9c
+FileChecksum: MD5: 8bafcd8e9cd7155efa89f50d557667ea
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Rakesh_Khanna.html
+SPDXID: SPDXRef-item10045772
+FileChecksum: SHA1: f6b827e69954ce1cc59bfcab61641c214f914409
+FileChecksum: MD5: b0645ea80a09b6427f0705b8e387f58f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Raymond_Kwok.html
+SPDXID: SPDXRef-item10045841
+FileChecksum: SHA1: 8af03e01818861c0d252e210b87c300edc86489d
+FileChecksum: MD5: ff92b765ee889a3c1983322a0132fd7e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Richard_B._Handler.html
+SPDXID: SPDXRef-item10045788
+FileChecksum: SHA1: 4eac7c4deee76dadd51e1f680029a1417303bbe4
+FileChecksum: MD5: 0c70f8e4e44476741b1cd18e73028680
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Richard_Fairbank.html
+SPDXID: SPDXRef-item10045826
+FileChecksum: SHA1: a49cdeb894c77dc7d3d986330d1f31ffcfbe5a91
+FileChecksum: MD5: f0f938a339c434a1df4e36e9589814b1
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ripple_(payment_protocol)
+SPDXID: SPDXRef-item10045844
+FileChecksum: SHA1: 674242f6b86dc2a268ba47011095384625acf556
+FileChecksum: MD5: 9e649aca0ffc6fd7c587fcd9cecf0585
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Robert_James_Thomson.html
+SPDXID: SPDXRef-item10045778
+FileChecksum: SHA1: e85dbed1b20f939b36ca61c62f9afe0bd9665553
+FileChecksum: MD5: 66cfcda2c36c19c7c015471ed956c4ab
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Ross_McEwan.html
+SPDXID: SPDXRef-item10045848
+FileChecksum: SHA1: fbae21a4bc7c1d673716e7bc9180780b2c8dc2fd
+FileChecksum: MD5: 5652cb8f03d569b406cec9f78eff103e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Scott_Etzler.html
+SPDXID: SPDXRef-item10045773
+FileChecksum: SHA1: ae0abc6ed298a83e368ed2cf033a5e7e4273941f
+FileChecksum: MD5: 2934b8defd1b7eb0cc4fc3e6a95e869c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Sergio_Ermotti.html
+SPDXID: SPDXRef-item10045852
+FileChecksum: SHA1: 6c181cb565756f91f02cd0a7e4d96b61504d8864
+FileChecksum: MD5: d3f176c7a0752507effe58421743db49
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Sheldon_Adelson.html
+SPDXID: SPDXRef-item10045790
+FileChecksum: SHA1: f151d53007eb753e5c1670b9817150b5017bd276
+FileChecksum: MD5: 1034367af0e0bee9b12157e7f5a636f4
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Stellar_(disambiguation)
+SPDXID: SPDXRef-item10045816
+FileChecksum: SHA1: b81eb4232be47192ff45fd83a8763bab04510888
+FileChecksum: MD5: e04e1dd3b01bbec268ec3e298bbe4c76
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Stellar_(payment_network)
+SPDXID: SPDXRef-item10045862
+FileChecksum: SHA1: 01636e10f9630f3061a9591b13507d3c4afea913
+FileChecksum: MD5: 18b604ef73bf7753f4f808683efa2747
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Stephen_Squeri.html
+SPDXID: SPDXRef-item10045801
+FileChecksum: SHA1: 1a3db6e0494aa7a5058f4daeb8ae4216fc54661a
+FileChecksum: MD5: e8231616fdd627787395a0f72433fe9f
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Steve_Easterbrook.html
+SPDXID: SPDXRef-item10045814
+FileChecksum: SHA1: 96ec2fd7bc894bfa466977fd53598eef4dd33ce9
+FileChecksum: MD5: eb46eb74dceef67e42e750a0fc7bed4b
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Sumner_Redstone.html
+SPDXID: SPDXRef-item10045781
+FileChecksum: SHA1: 3f8e57ea925320a560fc97a7c6dec6634584c0ef
+FileChecksum: MD5: 816a42d35896bd3855ad62e217898232
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Sundar_Pichai.html
+SPDXID: SPDXRef-item10045764
+FileChecksum: SHA1: f2ff247ba4d53d78d96b6c05e36dfbb2aea00523
+FileChecksum: MD5: a9e91546364a9ad72ca7ca82531dd85c
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Sunil_Bharti_Mittal.html
+SPDXID: SPDXRef-item10045809
+FileChecksum: SHA1: b349365174b9f2168ec7e2701462dffcc2c23b3a
+FileChecksum: MD5: 6c7c9fcdcd68c5303d09f6ad196713bd
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Tatsumi_Kimishima.html
+SPDXID: SPDXRef-item10045811
+FileChecksum: SHA1: 25ee3265251f11b043422ed33d433b0d4185f40f
+FileChecksum: MD5: e19c5c18e9f44b9058688fb492f6d13e
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Toxey_Haas.html
+SPDXID: SPDXRef-item10045830
+FileChecksum: SHA1: 72e62843f05ac01a7dd02073fbadf5b902c6f565
+FileChecksum: MD5: 8ddbdae232ee07a79ab284304f2bc326
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Verge
+SPDXID: SPDXRef-item10045819
+FileChecksum: SHA1: da69636f2497886f8a3b3202246bf03773a9bfd8
+FileChecksum: MD5: f21cd438ab570c46f9d823205fd8d2ca
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Verge_(disambiguation)
+SPDXID: SPDXRef-item10045798
+FileChecksum: SHA1: b8c3ca34c67479029480ffa9fbc77b7ddd38b4f4
+FileChecksum: MD5: 066246f159b76537b21ee7c05ea54ed3
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Vertcoin
+SPDXID: SPDXRef-item10045840
+FileChecksum: SHA1: 92bfc88d3e7c1717c1f91363897fc02ffc35a23f
+FileChecksum: MD5: d8c1f897ce9e0e7818516bb6641715b5
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/Virginia_M._Rometty.html
+SPDXID: SPDXRef-item10045947
+FileChecksum: SHA1: 0f2a77cafdc537a57506654119267fc5042c15ed
+FileChecksum: MD5: ea5366ab5c6069ae32dbbd56cca14632
+LicenseConcluded: CC-BY-SA-3.0
+LicenseInfoInFile: CC-BY-SA-3.0
+LicenseInfoInFile: LicenseRef-CPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/LICENSE
+SPDXID: SPDXRef-item10046055
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/ADOPTERS.csv
+SPDXID: SPDXRef-item10045723
+FileChecksum: SHA1: 3ec744d7dd665723e05771960905300ce03c42cb
+FileChecksum: MD5: 99636db1a72f5deedcfcbeeadf256f63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/Instructor_Notes.md
+SPDXID: SPDXRef-item10045724
+FileChecksum: SHA1: 01610971be7cdbb421bae8640bf54eac7fee0c16
+FileChecksum: MD5: 640fd6c6a660e67f3a1f44ff9d6f278c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/taxonomy.png
+SPDXID: SPDXRef-item10045728
+FileChecksum: SHA1: 9f25cb54411e9bc2b3a71679679474dc95383604
+FileChecksum: MD5: 668c6a976ad4081c4d0246da47f60b8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/example-query-2.png
+SPDXID: SPDXRef-item10045729
+FileChecksum: SHA1: e8d572f59441424ddfbddcb8ca81c586e7fd8317
+FileChecksum: MD5: 2f98576729782531e3354ab983a16167
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/README.md
+SPDXID: SPDXRef-item10045730
+FileChecksum: SHA1: 914dddab30566d12f2aab06de8d304c3ff376262
+FileChecksum: MD5: dc10f39f118af6b879372d63994e353d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/example-query-3.png
+SPDXID: SPDXRef-item10045731
+FileChecksum: SHA1: e1c5026d42a5a6e057a522f8e4e2501314f78107
+FileChecksum: MD5: 186e6c83f7f2455f05738fd10ef87767
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/example-query-5.png
+SPDXID: SPDXRef-item10045732
+FileChecksum: SHA1: e48e104a7f0888eb04abb4fbc0eb478d31c81fd2
+FileChecksum: MD5: 664decdd00569c6345808c1a596d37ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/opends4all-color.png
+SPDXID: SPDXRef-item10045733
+FileChecksum: SHA1: cf69a3d57a016fc82e2200c6ff299c33a00ae7c9
+FileChecksum: MD5: 2da3fa73f66557175c9bba839e337dbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/find-file.png
+SPDXID: SPDXRef-item10045734
+FileChecksum: SHA1: 3d24f1656cb2ac2e72cebc7257f3bfc6deac4ca8
+FileChecksum: MD5: 9839b61bb36d34831481f949965852b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/example-query-4.png
+SPDXID: SPDXRef-item10045735
+FileChecksum: SHA1: 78ef81356e8fdb8d5c6d9917a90a090a98b49352
+FileChecksum: MD5: 39bed06e8206b18a4ecf5c8ac49653a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/img/example-query-1.png
+SPDXID: SPDXRef-item10045736
+FileChecksum: SHA1: bf8a39175c6ce818335f7e8c77c1b4a16cbdb4ed
+FileChecksum: MD5: b8bcdb81f7f305b87789e1bee965445e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/template/README.md
+SPDXID: SPDXRef-item10045738
+FileChecksum: SHA1: bdeba8b204887bc422d00b0356b861a645665470
+FileChecksum: MD5: 77ca4ab9a6b568300c959cbd665ce60c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/template/ODPi_Template_for_Slides.pptx
+SPDXID: SPDXRef-item10045739
+FileChecksum: SHA1: a6d525af5af3a1f69799f3e81f22017c597fe890
+FileChecksum: MD5: 7aa2c4734accca51aee8e8e914287c41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/glass.csv
+SPDXID: SPDXRef-item10045741
+FileChecksum: SHA1: 640dc0bf422e5a85ea3c3f8c21d9f1c3110b96bd
+FileChecksum: MD5: 4e76239d5821cdd01dc05a8d7938946f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/theconversation.com/bury-fc-the-economics-of-an-english-football-clubs-collapse-122727
+SPDXID: SPDXRef-item10045745
+FileChecksum: SHA1: f0111b98f072ce9e2ed1a2ae303de372b0592960
+FileChecksum: MD5: 4a46f907447837b617db5031ca4778fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 2010–2020, The Conversation US, Inc. </text>
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/news.wharton.upenn.edu/press-releases/2018/06/penn-launches-strategic-collaboration-ripple-accelerate-innovation-blockchain-cryptocurrency
+SPDXID: SPDXRef-item10045750
+FileChecksum: SHA1: fb9175b7a43af0ad12b5626acf1d649e6d140ddb
+FileChecksum: MD5: 3c28562d9170ada2376a436a5150653a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/Companies.csv
+SPDXID: SPDXRef-item10045751
+FileChecksum: SHA1: 179f0569d8f4786bce835b92456cde3a1695c2db
+FileChecksum: MD5: acf4fb93ff22fae1f8a511e0c5a2b8f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-profit
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/finance.yahoo.com/cryptocurrencies/?count=100&offset=0
+SPDXID: SPDXRef-item10045754
+FileChecksum: SHA1: d67bcbaae36424f9ea43e319de4a9b3598488be0
+FileChecksum: MD5: 3008fa93daa130ba5de5cccf154a3e0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/finance.yahoo.com/cryptocurrencies/?count=100&offset=100
+SPDXID: SPDXRef-item10045755
+FileChecksum: SHA1: 88e87916475d75a4956ca31731541b5a0c65cb2c
+FileChecksum: MD5: 9117df32c0bd1acc341e39eb58f968a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/fivethirtyeight.com/features/economists-are-bad-at-predicting-recessions
+SPDXID: SPDXRef-item10045758
+FileChecksum: SHA1: 07ead138111e56531226b7248381d2cd2b4eedab
+FileChecksum: MD5: 6105647bef5fd96a07434d3b6bcc1aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 2020 ABC News Internet Ventures. All rights reserved.
+(c) 2020 ABC News Internet Ventures. All rights reserved. </text>
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/www.foxnews.com/us/indiana-dispatcher-helps-boy-who-called-911-with-fractions-homework
+SPDXID: SPDXRef-item10045761
+FileChecksum: SHA1: f99cb452c6bcbf9e009f129b5c3b89d831ecc622
+FileChecksum: MD5: 87d6af3215a56f68b1e79916270dde11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/List_of_chief_executive_officers_table_only.html
+SPDXID: SPDXRef-item10045813
+FileChecksum: SHA1: 31d847baab25308f2a4d559328e6aefa9f397397
+FileChecksum: MD5: e3a9fbefae534409fa820ed262db688a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/ew.com/movies/star-wars-rise-of-skywalker-footage-d23-expo
+SPDXID: SPDXRef-item10046006
+FileChecksum: SHA1: 9ec87f4dbb9f95cfbe4f0e41b21d2df263a3241a
+FileChecksum: MD5: a9eb5a02ffeb961302107f75dd2b0d72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright. All rights reserved.
+© Copyright 2020 Meredith Corporation. </text>
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/www.cnn.com/2019/08/31/us/dorian-animals-foster-release-wxc/index.html
+SPDXID: SPDXRef-item10046013
+FileChecksum: SHA1: 099dcb0d7d2d2d8a8bbb03c07f1b489ba05d3318
+FileChecksum: MD5: de0592a0edf6ecb116cef974733e6c4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/www.usatoday.com/story/tech/talkingtech/2019/08/31/hello-iphone-11-new-features-we-want-apple-next-models/2153565001
+SPDXID: SPDXRef-item10046022
+FileChecksum: SHA1: 7c2c871eb02889308f0efe9566113bb3d334553b
+FileChecksum: MD5: 8fbc4524facfd29d70c77ea856a236d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-wrangling/fried.com/history-of-bitcoin
+SPDXID: SPDXRef-item10046024
+FileChecksum: SHA1: 70f64a86743d4bb45061b22b8049438182a0d43f
+FileChecksum: MD5: b644cf5b00153b8b5b1795dccfbd6e55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2019 © Fried.com </text>
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/cluster-data-processing/AWS CLI command example.txt
+SPDXID: SPDXRef-item10046026
+FileChecksum: SHA1: d0e26f82cfd8a643a395ddd49cdccbcc1db0981d
+FileChecksum: MD5: 49757e5c7346a18ee1f5db03f9272d9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/cluster-data-processing/bootstrap.sh
+SPDXID: SPDXRef-item10046027
+FileChecksum: SHA1: b0297888ed0adc318ac5837cf85c8fb08d668fbd
+FileChecksum: MD5: dc90a1db9679c57027d30d0fd69822dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/data-and-knowledge-modeling/module2dataloading.py
+SPDXID: SPDXRef-item10046029
+FileChecksum: SHA1: fec6a1c63f2e337ce7c8ff12d1b64d5536cbbcf3
+FileChecksum: MD5: d79f62b701afc153e9f8d08d42c16127
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/machine-learning/urlmarker.py
+SPDXID: SPDXRef-item10046031
+FileChecksum: SHA1: 57f576a44a5d9bbf1f4666b82f9c2207bd31c1f7
+FileChecksum: MD5: f744f05a3dbceb445660b98e7ca4d877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/machine-learning/spam.csv
+SPDXID: SPDXRef-item10046032
+FileChecksum: SHA1: 24a49fea3c46cb86995d2e93a2188e9ba291747a
+FileChecksum: MD5: 008dcf9ca6aab621d3b3831db6815867
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/machine-learning/regularize.py
+SPDXID: SPDXRef-item10046033
+FileChecksum: SHA1: 6e394ff0de9e30ab439858d46e9b93ae4ef57fa8
+FileChecksum: MD5: ed40ad9f072191c38e5f571c7b2f8c0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/scripts-autoload-data/efficient-data-processing/homework3filewrapper.py
+SPDXID: SPDXRef-item10046035
+FileChecksum: SHA1: 8288b376345ebfa54681ff4650107d0bfa388a62
+FileChecksum: MD5: 75b755027c3aaa1989315d579c63ee8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/stock_prices.zip/stock_prices.csv
+SPDXID: SPDXRef-item10046038
+FileChecksum: SHA1: 82b23672b9fb556941e7817a560225a9ac70ac78
+FileChecksum: MD5: 9fbfcd530a938a4b5274849a8cfe4c7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/linkedin.nodes.zip/linkedin.nodes
+SPDXID: SPDXRef-item10046042
+FileChecksum: SHA1: 3e8094c9805f444b9648cdf72661715396c0cacd
+FileChecksum: MD5: 74301a4fbf40d4c97a04760e33bb7a84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/linkedin.edges.zip/linkedin.edges
+SPDXID: SPDXRef-item10046046
+FileChecksum: SHA1: e999924f08d92a74e3a401bcffb48875e4f2f4f1
+FileChecksum: MD5: 2d7ff79fb0c777795886d346a106c980
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/assets/data/test_data_10000.zip/test_data_10000.json
+SPDXID: SPDXRef-item10046050
+FileChecksum: SHA1: cc742ff9efaf3cb28d7094f82f1b603a793e3c1e
+FileChecksum: MD5: f4d13acc024352a673f3886eac7ae99f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20191018.md
+SPDXID: SPDXRef-item10046059
+FileChecksum: SHA1: 013547174b066f05259a111f86785d92ee518a40
+FileChecksum: MD5: 5d295d9401c4eede44205c57e6af8172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20191004.md
+SPDXID: SPDXRef-item10046060
+FileChecksum: SHA1: 50f5342dab923fac0b2b004f191615fb553666a4
+FileChecksum: MD5: 4af07d146c66bbd8f8e3deb2abe9db82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20191101.md
+SPDXID: SPDXRef-item10046061
+FileChecksum: SHA1: daabae1d9186bbfd165ffbce1f95232c6cf19371
+FileChecksum: MD5: 5c48942aa9f505f4ef7b3a3e8795f66b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200626.md
+SPDXID: SPDXRef-item10046062
+FileChecksum: SHA1: e3be05b9238772fd1608e68a157612f74a8cef7a
+FileChecksum: MD5: 6acce1c93676e45e255794bffce4c50e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200110.md
+SPDXID: SPDXRef-item10046063
+FileChecksum: SHA1: f761ae8d756b53210736c96cae5dbe37eb441166
+FileChecksum: MD5: 9be5ef712cc7e905f092a47020acdfc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20191213.md
+SPDXID: SPDXRef-item10046064
+FileChecksum: SHA1: a0835f11dbab4f0e3093cad135ce12e911a34187
+FileChecksum: MD5: 456e30988994464aba9e9985663c8006
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200320.md
+SPDXID: SPDXRef-item10046065
+FileChecksum: SHA1: 7c59e17618ec7f22d70ef3f3a6bb88d6619c4d11
+FileChecksum: MD5: da6f28462ae35274e137fc50b733752c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200529.md
+SPDXID: SPDXRef-item10046066
+FileChecksum: SHA1: f8c48b95c46c4d47173606e4d040cb33688a4ba9
+FileChecksum: MD5: 59b9500a867442686c394c39198c464d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200221.md
+SPDXID: SPDXRef-item10046067
+FileChecksum: SHA1: 83519cbdae8712f3c3755d94d9eea13e8f156135
+FileChecksum: MD5: 6d395c7c8bd7fcf5e24a8a50fcc0030c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200417.md
+SPDXID: SPDXRef-item10046068
+FileChecksum: SHA1: 44238f121d35154e8aaa95e223c7057d6e2859f6
+FileChecksum: MD5: 0093ac1455ad14cac427ca016499a5e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200207.md
+SPDXID: SPDXRef-item10046069
+FileChecksum: SHA1: 31ad76448a286b0b782e9e168896c870a1457c03
+FileChecksum: MD5: d40ce9c0ea194848be5963833f0f2b31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200612.md
+SPDXID: SPDXRef-item10046070
+FileChecksum: SHA1: 76409858f27ed3131224b96a11b8e9359a9c27a4
+FileChecksum: MD5: cffd1de9b92b2fe9605351d40ae208f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200515.md
+SPDXID: SPDXRef-item10046071
+FileChecksum: SHA1: 16f15fc98d5e8594e1051e9a6fbe92033c730efc
+FileChecksum: MD5: 7761f04b34a405a0db0816a2ecf63c4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20191115.md
+SPDXID: SPDXRef-item10046072
+FileChecksum: SHA1: 6386368225ecdebf7d3a0245aa3b80f2c437285e
+FileChecksum: MD5: 7bd47405b180815925799412aa748a94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200403.md
+SPDXID: SPDXRef-item10046073
+FileChecksum: SHA1: 5065019d7539fe1f8b9bb3d834dfcff9ea0f6b27
+FileChecksum: MD5: 662bb8bf951586c15aa60685d483f891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200306.md
+SPDXID: SPDXRef-item10046074
+FileChecksum: SHA1: f948243862ca78b4bf17c6f07ea4579070ae40ef
+FileChecksum: MD5: 2b27313fe8e56442d0772254d6fac830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200124.md
+SPDXID: SPDXRef-item10046075
+FileChecksum: SHA1: d709b6b2ec57edc46de0753dc9ae8a0cbbda1706
+FileChecksum: MD5: 26ecf9ff276e1f5caf2a50c3c589976a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200501.md
+SPDXID: SPDXRef-item10046076
+FileChecksum: SHA1: f65fe31ecb4932ea13656b382ddcc9317051b543
+FileChecksum: MD5: e7fbd62a42230840d07ff141b31275af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/tsc/meetings/20200710.md
+SPDXID: SPDXRef-item10046077
+FileChecksum: SHA1: d4f03902ac2c0a0bd1e700d7dcf03421ecf2ee6e
+FileChecksum: MD5: 05c9534c506cf50358ab63eba69ce146
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-ethics/Instructor_Notes.md
+SPDXID: SPDXRef-item10046080
+FileChecksum: SHA1: d022ca58fdfde1b15c4f9e2d988878dcd68f8a1d
+FileChecksum: MD5: a2f77478fe14f739878ceb124e745bc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-ethics/README.md
+SPDXID: SPDXRef-item10046081
+FileChecksum: SHA1: 8e35cab1b41641cca64d17784fdc5d657e47272d
+FileChecksum: MD5: c8696b499c50b1f85d7e74991cb95631
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-ethics/ETHICS-Ethics-Privacy-Fairness-basic.pptx
+SPDXID: SPDXRef-item10046082
+FileChecksum: SHA1: a83f0bc234d1363ce8321a35275b683d415f28a7
+FileChecksum: MD5: e190116b0e26906cc07a71133899935e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-instructor-resources/Getting_Started_with_Jupyter_Notebook.md
+SPDXID: SPDXRef-item10046084
+FileChecksum: SHA1: b52fe92cf000613991872b9b14de4ba4231e5adb
+FileChecksum: MD5: b55bcc1fa7df861cf32008634f719f44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/README.md
+SPDXID: SPDXRef-item10046085
+FileChecksum: SHA1: ab602df163fc7891ba947d74f53712574d96b606
+FileChecksum: MD5: 96336e80111085821ecc98bc7a4d6a00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-overview/Instructor_Notes.md
+SPDXID: SPDXRef-item10046087
+FileChecksum: SHA1: ff1291414f4f0a41a50302877bfb4d5a600e334e
+FileChecksum: MD5: e9bace590a32326aaa952c143a574813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-overview/README.md
+SPDXID: SPDXRef-item10046088
+FileChecksum: SHA1: 8aacab436653eded24e4e46307fdc8993b34ffce
+FileChecksum: MD5: 439c3ed504c90ffb5733d0b187b794ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-overview/Quiz.md
+SPDXID: SPDXRef-item10046089
+FileChecksum: SHA1: 98e569f27f1fbf1b221b7146914a308d0f6ca679
+FileChecksum: MD5: 5e781ac9c6fc8146854e6bdeb5a31105
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-overview/INTRODUCTION-Data-Science-basic.pptx
+SPDXID: SPDXRef-item10046090
+FileChecksum: SHA1: c4a540c2315781931e570c4f0135cd687a716517
+FileChecksum: MD5: aac92776027ffb718867426d189e7028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-and-knowledge-modeling/Instructor_Notes.md
+SPDXID: SPDXRef-item10046092
+FileChecksum: SHA1: c945ab6e9ea2d46f212d37dce56f225e95fbacd7
+FileChecksum: MD5: cd5efbf0c281097a423cf4901faca955
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-and-knowledge-modeling/README.md
+SPDXID: SPDXRef-item10046093
+FileChecksum: SHA1: 2841ffeb729c6de72e7cbd00e3e31fc72bc89b63
+FileChecksum: MD5: 21e7afcee6e833d333e51606faefc862
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-and-knowledge-modeling/DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic.pptx
+SPDXID: SPDXRef-item10046094
+FileChecksum: SHA1: a9579eb249dcf7b5eb7bd4008a9fd1ca542c83fa
+FileChecksum: MD5: 124835395dfb4826a8f6c45f87b85a60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-and-knowledge-modeling/DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic.ipynb
+SPDXID: SPDXRef-item10046095
+FileChecksum: SHA1: 8f7f5f1286d9f3d6ebb14a4d40e789cc6eada7dd
+FileChecksum: MD5: e78f830687e154557a4dba91c7588c54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-and-knowledge-modeling/DATA-KNOWLEDGE-MODELS-Homework.ipynb
+SPDXID: SPDXRef-item10046096
+FileChecksum: SHA1: b3e2404c1965f56364f9b76052a366f09857bb24
+FileChecksum: MD5: 5c39c114bb365e8db4184f6e76b13b0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/Instructor_Notes.md
+SPDXID: SPDXRef-item10046098
+FileChecksum: SHA1: c66f5c48b76938373cfad11f8ba73eb7a85b22a1
+FileChecksum: MD5: ba23d89999ac5182dc4e9ec4aa25674a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/CLUSTER-DATA-PROCESSING-parallelism-partitioning-advanced-Local.ipynb
+SPDXID: SPDXRef-item10046099
+FileChecksum: SHA1: f575ce9aa916b43ad4d7ba29a5577b602df57078
+FileChecksum: MD5: e39f9042f0d75194c997860cff380556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/CLUSTER-DATA-PROCESSING-Homework-Local.ipynb
+SPDXID: SPDXRef-item10046100
+FileChecksum: SHA1: 092134ef24ab507975df83f992383a2b1ce03aa3
+FileChecksum: MD5: 9b5d840bca637422117561cab1dec65b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/EFFICIENT-DATA-PROCESSING-architecture-algorithms-intermediate.ipynb
+SPDXID: SPDXRef-item10046101
+FileChecksum: SHA1: 8950ebafe61e457c2af994ddf256ec263a3c0c4c
+FileChecksum: MD5: ec43bd0e995e89f1d9b339f452f13982
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/EFFICIENT-DATA-PROCESSING-Homework.ipynb
+SPDXID: SPDXRef-item10046102
+FileChecksum: SHA1: 54b72add999742f2173359e470e8245624cceb45
+FileChecksum: MD5: 8147e9afbf6f9232b88f6b07db459e85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/README.md
+SPDXID: SPDXRef-item10046103
+FileChecksum: SHA1: 598cb6d717b72a36aae309aff780c8d09f4d81ef
+FileChecksum: MD5: b7bbf3839645fcf2393001b09dd5d744
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/CLUSTER-GRAPH-PROCESSING-centrality.pptx
+SPDXID: SPDXRef-item10046104
+FileChecksum: SHA1: 32f0350f201d2cc090291a2505556ea769eaabe4
+FileChecksum: MD5: 413a35f33868f98988f00ed5b9872cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/GRAPHS-PAGERANK-centrality.pptx
+SPDXID: SPDXRef-item10046105
+FileChecksum: SHA1: d08242ce8f71a0f9e7feecf00acc3d2499fab4c4
+FileChecksum: MD5: da9faf9dd6a6adaf1cd3415b48128543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/CLUSTER-DATA-PROCESSING-parallelism-partitioning-advanced-Cloud.ipynb
+SPDXID: SPDXRef-item10046106
+FileChecksum: SHA1: b73f27a02c84bfd6de372b4695e19919bc034ddf
+FileChecksum: MD5: 39eb7c0ac3a12383fe1529b95e40a21c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/CLUSTER-DATA-PROCESSING-Homework-Cloud.ipynb
+SPDXID: SPDXRef-item10046107
+FileChecksum: SHA1: 599c733c2f8c030c39a87c5bfd5c35246428fdfe
+FileChecksum: MD5: d962768a2b6734e55592c64444010c3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/CLUSTER-DATA-PROCESSING-Homework-Cloud.ipynb.bak
+SPDXID: SPDXRef-item10046108
+FileChecksum: SHA1: 001268a5768f08cd6d9fddda508eaea2b1a36271
+FileChecksum: MD5: 0b58f2e2422dbec20ac578ffc12f42f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/Instructor_Notes.md
+SPDXID: SPDXRef-item10046110
+FileChecksum: SHA1: c66f5c48b76938373cfad11f8ba73eb7a85b22a1
+FileChecksum: MD5: ba23d89999ac5182dc4e9ec4aa25674a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/CLUSTER-DATA-PROCESSING-parallelism-partitioning-advanced-Local.ipynb
+SPDXID: SPDXRef-item10046111
+FileChecksum: SHA1: eb191b25b98499deb992a833808f4d1b0d09e84a
+FileChecksum: MD5: 86b8be61189fe8f90dd70c9b833e16f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/CLUSTER-DATA-PROCESSING-Homework-Local.ipynb
+SPDXID: SPDXRef-item10046112
+FileChecksum: SHA1: 3b1978cd14188f8e09b5ce280871687a8e59d9cb
+FileChecksum: MD5: 673c99f72a1f36d378797796222490d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/EFFICIENT-DATA-PROCESSING-architecture-algorithms-intermediate.ipynb
+SPDXID: SPDXRef-item10046113
+FileChecksum: SHA1: 8950ebafe61e457c2af994ddf256ec263a3c0c4c
+FileChecksum: MD5: ec43bd0e995e89f1d9b339f452f13982
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/EFFICIENT-DATA-PROCESSING-Homework.ipynb
+SPDXID: SPDXRef-item10046114
+FileChecksum: SHA1: a6c0a1ddda50ca308f129b976e1b781943945269
+FileChecksum: MD5: 2a18f22f721751010b8f27bcbd5e8ce5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/README.md
+SPDXID: SPDXRef-item10046115
+FileChecksum: SHA1: 598cb6d717b72a36aae309aff780c8d09f4d81ef
+FileChecksum: MD5: b7bbf3839645fcf2393001b09dd5d744
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/CLUSTER-GRAPH-PROCESSING-centrality.pptx
+SPDXID: SPDXRef-item10046116
+FileChecksum: SHA1: 32f0350f201d2cc090291a2505556ea769eaabe4
+FileChecksum: MD5: 413a35f33868f98988f00ed5b9872cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/GRAPHS-PAGERANK-centrality.pptx
+SPDXID: SPDXRef-item10046117
+FileChecksum: SHA1: d08242ce8f71a0f9e7feecf00acc3d2499fab4c4
+FileChecksum: MD5: da9faf9dd6a6adaf1cd3415b48128543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/CLUSTER-DATA-PROCESSING-parallelism-partitioning-advanced-Cloud.ipynb
+SPDXID: SPDXRef-item10046118
+FileChecksum: SHA1: 7d11cf2bdc85eda17f74476fae00b5828cd1a6a8
+FileChecksum: MD5: e55e19e5bd7a13a4688f0b6777ff42e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/CLUSTER-DATA-PROCESSING-Homework-Cloud.ipynb
+SPDXID: SPDXRef-item10046119
+FileChecksum: SHA1: 001268a5768f08cd6d9fddda508eaea2b1a36271
+FileChecksum: MD5: 0b58f2e2422dbec20ac578ffc12f42f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/CLUSTER-DATA-PROCESSING-parallelism-partitioning-advanced.pptx
+SPDXID: SPDXRef-item10046120
+FileChecksum: SHA1: 8b6cad2829b9dcf5aa3adc2df2c6a66376870755
+FileChecksum: MD5: ce19404bf334695d4b94c4337cd1387e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/EFFICIENT-DATA-PROCESSING-architecture-algorithms-intermediate.pptx
+SPDXID: SPDXRef-item10046121
+FileChecksum: SHA1: 3abd2abe19f89777c9027bc2760e1befea25e0f7
+FileChecksum: MD5: 7fd1b984f1977c2cf48f0ade41eb3abf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/temp/GRAPHS-adjacency-matrices.pptx
+SPDXID: SPDXRef-item10046122
+FileChecksum: SHA1: a96a6846082236717e10abd1f94eafa6e05e1916
+FileChecksum: MD5: 1c6f1d981fbe306e08801d527a99c854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/CLUSTER-DATA-PROCESSING-parallelism-partitioning-advanced.pptx
+SPDXID: SPDXRef-item10046123
+FileChecksum: SHA1: 8b6cad2829b9dcf5aa3adc2df2c6a66376870755
+FileChecksum: MD5: ce19404bf334695d4b94c4337cd1387e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/EFFICIENT-DATA-PROCESSING-architecture-algorithms-intermediate.pptx
+SPDXID: SPDXRef-item10046124
+FileChecksum: SHA1: 3abd2abe19f89777c9027bc2760e1befea25e0f7
+FileChecksum: MD5: 7fd1b984f1977c2cf48f0ade41eb3abf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-scalable-data-processing/GRAPHS-adjacency-matrices.pptx
+SPDXID: SPDXRef-item10046125
+FileChecksum: SHA1: a96a6846082236717e10abd1f94eafa6e05e1916
+FileChecksum: MD5: 1c6f1d981fbe306e08801d527a99c854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-model-assessment/README.md
+SPDXID: SPDXRef-item10046127
+FileChecksum: SHA1: 02751bd0c5e5b2b584b264c5cafe9048d9550459
+FileChecksum: MD5: 450cbcd2bfbd3e386f3148f9d67aa46a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-model-assessment/TRAINING-ROBUST-MODELS-hyperparameters-tuning-validation.ipynb
+SPDXID: SPDXRef-item10046128
+FileChecksum: SHA1: c3c1e12488d36287b3b65e5fdb5540f23dfe4810
+FileChecksum: MD5: ee90b1edd122da96c6ec4baf57fb96a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-model-assessment/TRAINING-ROBUST-MODELS-hyperparameters-tuning-validation.pptx
+SPDXID: SPDXRef-item10046129
+FileChecksum: SHA1: 53ea47956445e6751a3558994ae4a368ddd227c1
+FileChecksum: MD5: ed0cef6916e675337df50bf51f2f2491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-exploratory-data-analysis/VISUAL-ANALYTICS-visualization.pptx
+SPDXID: SPDXRef-item10046131
+FileChecksum: SHA1: a5fb972091750aa20a1a0dd8f3e0df815d905626
+FileChecksum: MD5: 92d6a2625d1260b06b96bc02a402872f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2017
+Copyright (c) 1998 Hewlett-Packard Company </text>
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-exploratory-data-analysis/README.md
+SPDXID: SPDXRef-item10046132
+FileChecksum: SHA1: 1b50a44f5d6e6141aad85056771e68ffdd5eb5f0
+FileChecksum: MD5: a80eb32e207da725c8c3d27380f3fae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-exploratory-data-analysis/VISUAL-ANALYTICS-visualization.ipynb
+SPDXID: SPDXRef-item10046133
+FileChecksum: SHA1: 187fada1dbcd2dabdb43d6509a462b4c4dd0543c
+FileChecksum: MD5: 900462ad0eb325e0e0946bc855ff87c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-foundation/README.md
+SPDXID: SPDXRef-item10046135
+FileChecksum: SHA1: d0669cbb40dc420014f6ae33dece3ce74a6d40bb
+FileChecksum: MD5: 6821148fb133c99a827f40ac1bbff03a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-foundation/GRAPH-THEORY-basic.pptx
+SPDXID: SPDXRef-item10046136
+FileChecksum: SHA1: 5a68ca8f97fb5848b1e062e218f317cc43ed566c
+FileChecksum: MD5: 90f03d5ccfbe455efd5b9c494d169a7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-foundation/HOW-COMPUTERS-WORK-cpu-memory-ssd-basic.pptx
+SPDXID: SPDXRef-item10046137
+FileChecksum: SHA1: 6e7dac62f63225e6405da21690626169575cf926
+FileChecksum: MD5: 438f6a5c1f20791184f344d12efced67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-foundation/#README.md#
+SPDXID: SPDXRef-item10046138
+FileChecksum: SHA1: d0669cbb40dc420014f6ae33dece3ce74a6d40bb
+FileChecksum: MD5: 6821148fb133c99a827f40ac1bbff03a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/MACHINE-LEARNING-Homework.ipynb
+SPDXID: SPDXRef-item10046140
+FileChecksum: SHA1: 9e1fdf31e97e1863cda4a7be9555990b8b95e140
+FileChecksum: MD5: c19e940cb0ddff654e15026c193e5c64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/README.md
+SPDXID: SPDXRef-item10046141
+FileChecksum: SHA1: 52eb4357d3f3ca9022bab19fe1fd288a349dcacb
+FileChecksum: MD5: 9349a28907c4da1f0725458144c6d561
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/SUPERVISED-ML-OVERVIEW-trees-forests-basic.pptx
+SPDXID: SPDXRef-item10046142
+FileChecksum: SHA1: 639b04c8ed484882d3ebe7a32a3b91d5b168477e
+FileChecksum: MD5: 0e1d0bce4288fa57b4c1cc55f9e32608
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Company
+© Rachel Luxemburg
+Rachel Luxemburg </text>
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/SUPERVISED-ML-NN-neural-nets-intermediate.ipynb
+SPDXID: SPDXRef-item10046143
+FileChecksum: SHA1: f25ef7220eb8777e84e24e4b60dffb8cff958bb1
+FileChecksum: MD5: 02a8ac3ea7a39b42e3a2e8280931daf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/UNSUPERVISED-ML-matrices-pca-clustering-basic.ipynb
+SPDXID: SPDXRef-item10046144
+FileChecksum: SHA1: 96f3f9214d7af496e544d716e682dcb96bcbd549
+FileChecksum: MD5: 03d1c084f79e3a97066b3791eaff6e78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/SUPERVISED-ML-NN-neural-nets-intermediate.pptx
+SPDXID: SPDXRef-item10046145
+FileChecksum: SHA1: 181d3a5606919259b250a6ad2c2470206bd68f2c
+FileChecksum: MD5: 6f32474fde94b2c78a26b2f0091467b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2017 </text>
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/UNSUPERVISED-ML-matrices-pca-clustering-basic.pptx
+SPDXID: SPDXRef-item10046146
+FileChecksum: SHA1: 727098ee29c57a18c1076788709d39a3a025f7b5
+FileChecksum: MD5: b3852f19ed889950a764457ec2763c60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/SUPERVISED-ML-OVERVIEW-trees-forests-basic.ipynb
+SPDXID: SPDXRef-item10046147
+FileChecksum: SHA1: 957f36191e45c8b4e6807f08692280c2dd0ceaee
+FileChecksum: MD5: a47010e7f115c55094731dba692ab8fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/SUPERVISED-ML-regression-basic.ipynb
+SPDXID: SPDXRef-item10046148
+FileChecksum: SHA1: 67a1a91c6355471e2e3a04a9fa24a83a5d47d94d
+FileChecksum: MD5: bb01d64e511c4c0ba23d672c38489036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-machine-learning/SUPERVISED-ML-regression-basic.pptx
+SPDXID: SPDXRef-item10046149
+FileChecksum: SHA1: 16bfd9c9287161605800bde37fcf4a2e92af7cbe
+FileChecksum: MD5: a180eda189cf5bfbf5a39819525fbc04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2017 </text>
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-wrangling-and-integration/Instructor_Notes.md
+SPDXID: SPDXRef-item10046151
+FileChecksum: SHA1: d0d9af706bcd2d4a1c3aa4908f27257518e34403
+FileChecksum: MD5: 63205be38942dcb59b5c58f292fb9ecc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-wrangling-and-integration/DATA-WRANGLING-import-link-mixed.ipynb
+SPDXID: SPDXRef-item10046152
+FileChecksum: SHA1: 73fffff3821dfca59cdb5b28dba037ccaa9a5568
+FileChecksum: MD5: 25ef1c95fe4a82638a52ea0113c0081b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-wrangling-and-integration/README.md
+SPDXID: SPDXRef-item10046153
+FileChecksum: SHA1: c1e919ed0192ce08ec73d310f5724c05a8bc1718
+FileChecksum: MD5: f722ecbb7b29d3de86f13722ff1d5ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-wrangling-and-integration/DATA-WRANGLING-Homework-mixed.ipynb
+SPDXID: SPDXRef-item10046154
+FileChecksum: SHA1: b1dfd0b2364d89db085dcfb3ea961774b759b3f7
+FileChecksum: MD5: e1f2a69c66b3c445bbb1dd6c08b56445
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/opends4all-resources/opends4all-data-wrangling-and-integration/DATA-WRANGLING-import-link-mixed.pptx
+SPDXID: SPDXRef-item10046155
+FileChecksum: SHA1: f89bcc9b6f3263104639976ce444fddb6c1ce387
+FileChecksum: MD5: 2c13bcc70e0a237a2a26b5cdc57f1e55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item10046156
+FileChecksum: SHA1: 70df1c53e1877e9acaefc122f12ed00faa690858
+FileChecksum: MD5: 03187b61c81d8e9178c8702d7063f44c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/COMMITTERS.csv
+SPDXID: SPDXRef-item10046157
+FileChecksum: SHA1: d158d12367cc17207b0c3259fae7e8b94621dfe0
+FileChecksum: MD5: 61f245f4f10a49a9739afd2b2d403e0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/NAMING-CONVENTIONS.md
+SPDXID: SPDXRef-item10046158
+FileChecksum: SHA1: 2c49f4c5364bdae0715886a63b16aaddf1105be3
+FileChecksum: MD5: d0d0a9c92fa332c166320e5a308306b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenDS4All/GOVERNANCE.md
+SPDXID: SPDXRef-item10046159
+FileChecksum: SHA1: ff68e0f23ac34f02ea66a716450bac19e60aa971
+FileChecksum: MD5: a9c500ac7f18038465a07f0c675000da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-No-reproduction-1
+LicenseName: No reproduction 1
+ExtractedText: <text> This material may not be reproduced without permission. </text>
+
+LicenseID: LicenseRef-CPL
+LicenseName: CPL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Non-profit
+LicenseName: Non-profit
+ExtractedText: <text> License by Nomos. </text>
+
